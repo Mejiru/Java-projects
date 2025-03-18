@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class assign2 {
+public class SpoonProd {
     public static void main(String[] arg) {
         Scanner input = new Scanner(System.in);
         double[] FAC = new double[3];
